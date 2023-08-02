@@ -1,32 +1,21 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
-# Project-05 : Ios Calculator (HC-05)
-
-
-## Description
-- Create an IOS calculator with the CSS-GRID structure shown in the image.
-
-## Expected Outcome
-
 ![CSS-GRID IOS CALCULATOR](./css-grid-ios.png)
 
-## Objective
+[👉 click here to view the page](https://msaiduslu.github.io/IOS-Calculator-Grid/)
 
-Design a IOS CALCULATOR that is functionally similar to this: [IOS CALCULATOR](https://css-grid-ios.netlify.app/)
+# Project : Ios Calculator
+
+## Description
+
+- Create an IOS calculator with the CSS-GRID structure shown in the image.
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML 
+- HTML
 
 - CSS
 
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
+### At the end of the project, i will be able to;
 
-- Step 2: Create project folder for local public repo on your pc
+- improve coding skills within HTML & CSS
 
-
-
-<p align="center"> ⌛ Happy Coding  ✍ </p>
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
